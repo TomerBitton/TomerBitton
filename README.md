@@ -1,4 +1,9 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQE-Ad1sghvLow/article-cover_image-shrink_720_1280/0/1692939824598?e=2147483647&v=beta&t=s7bqKlRh43gBcxVSaj5ku0lGKjGpL9Pipyedp-65USI)](https://rishavchanda.io)
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://media.licdn.com/dms/image/D5612AQE-Ad1sghvLow/article-cover_image-shrink_720_1280/0/1692939824598?e=2147483647&v=beta&t=s7bqKlRh43gBcxVSaj5ku0lGKjGpL9Pipyedp-65USI" alt="MasterHead" style="width:100%; max-width:100%;"/>
+  </a>
+</div>
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
