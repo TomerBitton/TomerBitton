@@ -1,8 +1,5 @@
-<div align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKyUvg9t255yrqQ5rp_QmfKJdNxSuJ9D1l3w&s" alt="MasterHead" style="width:50%; max-width:500x;"/>
-  </a>
-</div>
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQE-Ad1sghvLow/article-cover_image-shrink_720_1280/0/1692939824598?e=2147483647&v=beta&t=s7bqKlRh43gBcxVSaj5ku0lGKjGpL9Pipyedp-65USI)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
 <h2 align="center">4th year Electrical and Electronics Engineering Student</h3>
