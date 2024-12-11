@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKyUvg9t255yrqQ5rp_QmfKJdNxSuJ9D1l3w&s" alt="MasterHead" style="width:100%; max-width:1000px;"/>
+  </a>
+</div>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
 <h2 align="center">4th year Electrical and Electronics Engineering Student</h3>
 
