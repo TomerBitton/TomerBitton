@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKyUvg9t255yrqQ5rp_QmfKJdNxSuJ9D1l3w&s" alt="MasterHead" style="width:100%; max-width:1000px;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKyUvg9t255yrqQ5rp_QmfKJdNxSuJ9D1l3w&s" alt="MasterHead" style="width:50%; max-width:500x;"/>
   </a>
 </div>
 
