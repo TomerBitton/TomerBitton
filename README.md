@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://steemitimages.com/0x0/http://www.gifmania.co.uk/Technology-Animated-Gifs/Animated-Computing/Integrated-Circuit/Computer-Chip-89629.gif" alt="MasterHead" style="width: 850px; height: 300px; object-fit: cover;"/>
+    <img src="https://steemitimages.com/0x0/http://www.gifmania.co.uk/Technology-Animated-Gifs/Animated-Computing/Integrated-Circuit/Computer-Chip-89629.gif" alt="MasterHead" style="width: 850px; height: 250px; object-fit: cover;"/>
   </a>
 </div>
 
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
-<h3 align="center">Electrical and Electronics Engineering Student</h3>
+<h2 align="center">Electrical and Electronics Engineering Student</h2>
 
 
 
