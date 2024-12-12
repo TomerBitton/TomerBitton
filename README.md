@@ -1,12 +1,16 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://media.licdn.com/dms/image/D5612AQE-Ad1sghvLow/article-cover_image-shrink_720_1280/0/1692939824598?e=2147483647&v=beta&t=s7bqKlRh43gBcxVSaj5ku0lGKjGpL9Pipyedp-65USI" alt="MasterHead" style="width:100%; max-width:100%;"/>
+    <img src="https://steemitimages.com/0x0/http://www.gifmania.co.uk/Technology-Animated-Gifs/Animated-Computing/Integrated-Circuit/Computer-Chip-89629.gif" alt="MasterHead" style="width: 850px; height: 300px; object-fit: cover;"/>
   </a>
 </div>
 
 
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
 <h2 align="center">Electrical and Electronics Engineering Student</h3>
+
+
 
 <h3 align="left">About me:</h3>
 <p align="left">
@@ -25,8 +29,11 @@
 
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif"/>
 
 - 🌐 Connect with me on LinkedIn:  
   <a href="https://linkedin.com/in/tomer--bitton/" target="blank">
@@ -44,7 +51,6 @@
   </a>
 
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
