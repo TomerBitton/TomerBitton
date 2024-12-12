@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JkMW5oOTRpNWx0dDh0djA0MGwzZ2M4b3Rxcmc4ZHIwczQzOXBlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp" />
+  <img align="right" alt="Coding" width="450" src="https://steemitimages.com/p/LcTxR6G5jkFaaydk7SJ3wxe57yVguASwUii5gAqDtc1ArmqxRm7kR9KP9ZLg5G9sstbmgdbdx331QofFhr8GwozLQZKpWWLrrWTfF1f1BEHPr48tiqi5qjMHXgdsHwfwhuRacFXifgag5AC2fo1Tj5H3s?format=match&mode=fit" />
   <ul>
     <li style="display: flex; align-items: center;">
       <span>Connect with me on LinkedIn</span>
