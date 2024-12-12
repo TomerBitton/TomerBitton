@@ -48,8 +48,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="left">
-  <tr>
+<table align="left" style="border-collapse: collapse;">
+  <tr style="background-color: #ffffff;">
     <td align="center">
       <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -75,7 +75,7 @@
       <br><b>Verilog</b>
     </td>
   </tr>
-  <tr>
+  <tr style="background-color: #ffffff;">
     <td align="center">
       <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer">
         <img src="https://i.imgur.com/hXd9I0L.png" alt="VHDL" width="40" height="40"/>
@@ -102,6 +102,9 @@
     </td>
   </tr>
 </table>
+
+
+
 
 
 
