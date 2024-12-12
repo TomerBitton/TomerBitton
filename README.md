@@ -33,25 +33,30 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JkMW5oOTRpNWx0dDh0djA0MGwzZ2M4b3Rxcmc4ZHIwczQzOXBlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp"/>
-
-- 🌐 Connect with me on LinkedIn:  
-  <a href="https://linkedin.com/in/tomer--bitton/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tomer Bitton LinkedIn" height="30" width="40" />
-  </a>
-
-- 📧 Reach out via Email:  
-  <a href="mailto:tomerbitton23@gmail.com" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email Tomer Bitton" height="30" width="40" />
-  </a>
-
-- 📱 Contact me by Phone:  
-  <a href="https://wa.me/0503335079" target="blank">
-    <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/016/716/480/small/whatsapp-icon-free-png.png" alt="Call Tomer Bitton" height="30" width="40" />
-  </a>
-
+  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JkMW5oOTRpNWx0dDh0djA0MGwzZ2M4b3Rxcmc4ZHIwczQzOXBlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp" />
+  <ul>
+    <li style="display: flex; align-items: center;">
+      <span>Connect with me on LinkedIn</span>
+      <a href="https://linkedin.com/in/tomer--bitton/" target="_blank" style="display: inline; margin-left: 5px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tomer Bitton LinkedIn" height="20" width="30" style="vertical-align: middle;" />
+      </a>
+    </li>
+    <li style="display: flex; align-items: center;">
+      <span>Reach out via Email</span>
+      <a href="mailto:tomerbitton23@gmail.com" target="_blank" style="display: inline; margin-left: 5px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email Tomer Bitton" height="20" width="30" style="vertical-align: middle;" />
+      </a>
+    </li>
+    <li style="display: flex; align-items: center;">
+      <span>Contact me by Phone</span>
+      <a href="https://wa.me/0503335079" target="_blank" style="display: inline; margin-left: 5px;">
+        <img src="https://seeklogo.com/images/W/whatsapp-logo-0DBD89C8E2-seeklogo.com.png" alt="Call Tomer Bitton" height="18" width="30" style="vertical-align: middle;" />
+      </a>
+    </li>
+  </ul>
 </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
