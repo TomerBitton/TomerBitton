@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<img align="right" alt="Coding" width="400" src="https://clipart-library.com/img/2091643.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JkMW5oOTRpNWx0dDh0djA0MGwzZ2M4b3Rxcmc4ZHIwczQzOXBlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp"/>
 
 - 🌐 Connect with me on LinkedIn:  
   <a href="https://linkedin.com/in/tomer--bitton/" target="blank">
