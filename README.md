@@ -5,10 +5,25 @@
 </div>
 
 
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
-<h2 align="center">4th year Electrical and Electronics Engineering Student</h3>
+<h2 align="center">Electrical and Electronics Engineering Student</h3>
+
+<h3 align="left">About me:</h3>
+<p align="left">
+
+- 🎓 I’m a fourth-year Electrical and Electronics Engineering student at Azrieli College, specializing in **Embedded Systems** and **Electro-optics**, with a **GPA of 89**.  
+
+- 🔧 I’ve worked on projects like developing a **Snake Game in MATLAB**, a **UART 8-bit transmitter and receiver in Verilog**, and a **Python-based Binary Arithmetic and Digital Circuit Simulator**.
+
+- 📘 As a Teaching Assistant at Azrieli College, I delivered math and physics lectures and provided personalized tutoring to first-year students, significantly improving their academic performance.  
+
+- 💪 During my military service in the Teleprocessing Corps, I served as a **Network Team Leader**, managing a team of 10 soldiers and earning an **Independence Day Certificate of Excellence**.
+
+- 🤝 I’m currently seeking exciting job opportunities where I can apply my skills and contribute to impactful projects.
+
+</p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
