@@ -49,7 +49,7 @@
   <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/modelsim.html" target="_blank" rel="noreferrer"> 
     <img src="https://i.imgur.com/ZIe7W8r.png" alt="ModelSim" width="40" height="40"/> 
   </a> 
-  <a href="https://www.keysight.com/us/en/product/1476554/agilent-vee.html" target="_blank" rel="noreferrer"> 
+  <a href="https://en.wikipedia.org/wiki/Keysight_VEE" target="_blank" rel="noreferrer"> 
     <img src="https://i.imgur.com/Pq8nT4L.png" alt="Agilent VEE" width="40" height="40"/> 
   </a>
 </p>
