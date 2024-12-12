@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif"/>
+<img align="right" alt="Coding" width="400" src="https://clipart-library.com/img/2091643.gif"/>
 
 - 🌐 Connect with me on LinkedIn:  
   <a href="https://linkedin.com/in/tomer--bitton/" target="blank">
@@ -110,7 +110,9 @@
 
 
 
-
+<p align="center">
+   <img src="https://github.com/eshan1925/eshan1925/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 
 
