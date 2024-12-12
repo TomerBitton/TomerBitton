@@ -48,33 +48,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX_q_KBpjfQilwOLyOVQ75i0L31qnUza9sg&s" alt="verilog" width="40" height="40"/> 
-  </a>
-  <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer"> 
-    <img src="https://i.imgur.com/hXd9I0L.png" alt="vhdl" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/NI_Multisim" target="_blank" rel="noreferrer"> 
-    <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill-600x594.png" alt="multisim" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/ModelSim" target="_blank" rel="noreferrer"> 
-    <img src="https://i.imgur.com/ZIe7W8r.png" alt="ModelSim" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/Keysight_VEE" target="_blank" rel="noreferrer"> 
-    <img src="https://i.imgur.com/Pq8nT4L.png" alt="Agilent VEE" width="40" height="40"/> 
-  </a>
-</p>
+
 
 
 
