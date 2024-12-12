@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
-<h2 align="center">Electrical and Electronics Engineering Student</h2>
+<h3 align="center">Electrical and Electronics Engineering Student</h3>
 
 
 
