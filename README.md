@@ -19,7 +19,7 @@
   <a href="mailto:tomerbitton23@gmail.com" target="blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email Tomer Bitton" height="30" width="40" />
   </a>
-  <a href="tel:+972503335079" target="blank">
+  <a href="https://wa.me/0503335079" target="blank">
     <img align="center" src="https://i.imgur.com/rShwkDy.png" alt="Call Tomer Bitton" height="30" width="40" />
   </a>
 </p>
